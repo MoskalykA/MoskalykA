@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Vue.js Projects.
+- 🔭 I’m currently working on my stats Projects.
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m not looking to collaborate with anyone lol.
 - 🤔 I’m looking for help with my null lol.
