@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=moskalyka" alt="moskalyka"></p>
 
-- 🔭 I’m currently working on [Python learning](https://github.com/MoskalykA/python3-learning)
+- 🔭 I’m currently working on Cray Lib and Basewars.
 
 - 🌱 I’m currently learning **Python**
 
