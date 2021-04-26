@@ -10,3 +10,5 @@
 - 💬 Ask me about **Discord (Agent Arthur#0038)**
 
 - ⚡ Fun fact **What's 'fun' lol**
+
+- 🔥 Best discord https://discord.gg/asDZm24DHu
