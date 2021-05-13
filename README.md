@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Arthur</h1>
-<h3 align="center">A passionate frontend and backend developer from French</h3>
+![Logo](https://github.com/MoskalykA/MoskalykA/blob/master/mylogo.png?raw=true)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=moskalyka" alt="moskalyka"></p>
+<div align="center">
+    Hi 👋, I'm Arthur
+    A passionate frontend and backend developer from French
+</div>
+
+![View count](https://komarev.com/ghpvc/?username=moskalyka)
 
 - 🔭 I’m currently working on Cray DRM.
 
